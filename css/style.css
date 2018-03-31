@@ -1,0 +1,42 @@
+
+#first {
+    width: auto;
+    margin: 0;
+    padding: 10px;
+    color: seagreen;
+    font-family: monospace, sans-serif;
+    font-size: 2em;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#seccond {
+    width: auto;
+    margin: 0;
+    padding: 10px;
+    color: #fff;
+    background-color: seagreen;
+    font-family: monospace, sans-serif;
+    font-size: 5em;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+#third {
+    width: auto;
+    margin: 0;
+    padding: 10px;
+    color: #fff;
+    background-color: seagreen;
+    font-family: monospace, sans-serif;
+    font-size: 5em;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
